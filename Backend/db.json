@@ -2,41 +2,53 @@
     "times": [
         {
             "id": 1,
-            "name": "Sport Recife",
-            "titles": 20
+            "name": "CAMISA MASC. SPORT OF.1 21/22 CLASSIC RUBRO NEGRA",
+            "price": 220.90
         },
         {
             "id": 2,
-            "name": "Fortaleza",
-            "titles": 18
+            "name": "CAMISA MASC. SPORT OF.2 21/22 CLASSIC BRANCO",
+            "price": 220.90
         },
         {
             "id": 3,
-            "name": "Bahia",
-            "titles": 15
+            "name": "KIT CLUBE INF. SPORT OF.1 21/22 RUBRO NEGRA",
+            "price": 180.90
         },
         {
             "id": 4,
-            "name": "Vitoria",
-            "titles": 10
+            "name": "CAMISA FEM. SPORT OF.2 21/22 CLASSIC BRANCO",
+            "price": 220.90
         },
         {
 
             "id": 5,
-            "name": "Naútico",
-            "titles": 5
+            "name": "CALCAO MASC. SPORT OF.1 21/22 RUBRO NEGRA",
+            "price": 130
         },
         {
 
             "id": 6,
-            "name": "Santa Cruz",
-            "titles": 0
+            "name": "REGATA MASC. SPORT TREINO 21/22",
+            "price": 170
+        },
+        {
+            
+            "id": 7,
+            "name": "CAMISA MC GOL MASC. 2021 ORANGE",
+            "price": 200
         },
         {
 
             "id": 7,
-            "name": "Ceará",
-            "titles": 0
+            "name": "CAMISA FEM. SPORT OF.1 21/22 CLASSIC RUBRO NEGRA",
+            "price": 220.90
+        },
+        {
+
+            "id": 8,
+            "name": "POLO VIAGEM SPORT RECIFE 20/21",
+            "price": 151.90
         }
     ]    
 }
