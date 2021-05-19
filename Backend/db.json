@@ -1,0 +1,42 @@
+{
+    "times": [
+        {
+            "id": 1,
+            "name": "Sport Recife",
+            "titles": 20
+        },
+        {
+            "id": 2,
+            "name": "Fortaleza",
+            "titles": 18
+        },
+        {
+            "id": 3,
+            "name": "Bahia",
+            "titles": 15
+        },
+        {
+            "id": 4,
+            "name": "Vitoria",
+            "titles": 10
+        },
+        {
+
+            "id": 5,
+            "name": "Naútico",
+            "titles": 5
+        },
+        {
+
+            "id": 6,
+            "name": "Santa Cruz",
+            "titles": 0
+        },
+        {
+
+            "id": 7,
+            "name": "Ceará",
+            "titles": 0
+        }
+    ]    
+}
