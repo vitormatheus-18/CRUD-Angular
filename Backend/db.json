@@ -1,60 +1,54 @@
 {
-    "CAZASPORT": [
-        {
-            "id": 1,
-            "name": "CAMISA MASC. SPORT OF.1 21/22 CLASSIC RUBRO NEGRA",
-            "price": 220.90
-        },
-        {
-            "id": 2,
-            "name": "CAMISA MASC. SPORT OF.2 21/22 CLASSIC BRANCO",
-            "price": 220.90
-        },
-        {
-            "id": 3,
-            "name": "KIT CLUBE INF. SPORT OF.1 21/22 RUBRO NEGRA",
-            "price": 180.90
-        },
-        {
-            "id": 4,
-            "name": "CAMISA FEM. SPORT OF.2 21/22 CLASSIC BRANCO",
-            "price": 220.90
-        },
-        {
-
-            "id": 5,
-            "name": "CALCAO MASC. SPORT OF.1 21/22 RUBRO NEGRA",
-            "price": 130
-        },
-        {
-
-            "id": 6,
-            "name": "REGATA MASC. SPORT TREINO 21/22",
-            "price": 170
-        },
-        {
-            
-            "id": 7,
-            "name": "CAMISA MC GOL MASC. 2021 ORANGE",
-            "price": 200
-        },
-        {
-
-            "id": 8,
-            "name": "CAMISA FEM. SPORT OF.1 21/22 CLASSIC RUBRO NEGRA",
-            "price": 220.90
-        },
-        {
-
-            "id": 9,
-            "name": "POLO VIAGEM SPORT RECIFE 20/21",
-            "price": 151.90
-        },
-        {
-
-            "id": 10,
-            "name": "POLO VIAGEM SPORT RECIFE 19/20",
-            "price": 110.90
-        }
-    ]    
+  "CAZASPORT": [
+    {
+      "id": 1,
+      "name": "CAMISA MASC. SPORT OF.1 21/22 CLASSIC RUBRO NEGRA",
+      "price": 220.9
+    },
+    {
+      "id": 2,
+      "name": "CAMISA MASC. SPORT OF.2 21/22 CLASSIC BRANCO",
+      "price": 220.9
+    },
+    {
+      "id": 3,
+      "name": "KIT CLUBE INF. SPORT OF.1 21/22 RUBRO NEGRA",
+      "price": 180.9
+    },
+    {
+      "id": 4,
+      "name": "CAMISA FEM. SPORT OF.2 21/22 CLASSIC BRANCO",
+      "price": 220.9
+    },
+    {
+      "id": 5,
+      "name": "CALCAO MASC. SPORT OF.1 21/22 RUBRO NEGRA",
+      "price": 130
+    },
+    {
+      "id": 6,
+      "name": "REGATA MASC. SPORT TREINO 21/22",
+      "price": 170
+    },
+    {
+      "id": 7,
+      "name": "CAMISA MC GOL MASC. 2021 ORANGE",
+      "price": 200
+    },
+    {
+      "id": 8,
+      "name": "CAMISA FEM. SPORT OF.1 21/22 CLASSIC RUBRO NEGRA",
+      "price": 220.9
+    },
+    {
+      "id": 9,
+      "name": "POLO VIAGEM SPORT RECIFE 19/20",
+      "price": 110.9
+    },
+    {
+      "id": 10,
+      "name": "POLO FEMININA VIAGEM SPORT RECIFE 19/20",
+      "price": 110.9
+    }
+  ]
 }
